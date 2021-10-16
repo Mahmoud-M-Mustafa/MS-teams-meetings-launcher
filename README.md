@@ -28,7 +28,7 @@ python Microsoft-teams.py
 ```
 - or  double click on that file
 # TIP
- you can save  in Microsoft-teams.py .pyw extension and move it to the startup folder and **update relative paths**
+ you can save  Microsoft-teams.py  in .pyw extension and move it to the startup folder and **update relative paths**
  
 1. to open startup press windows key + R  , RUN box will pop up
  
