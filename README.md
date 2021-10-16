@@ -21,13 +21,13 @@ courses = [['CSE448 (UG2013) - Embedded Operating Systems  (20847)', 17, 30, ['3
 student_email=os.environ.get("ASU_email")
 student_password=os.environ.get("password")
 ```
-# Run
+## Run
 - through your terminal :
 ```
 python Microsoft-teams.py
 ```
 - or  double click on that file
-# TIP
+## TIP
  you can save  Microsoft-teams.py  in .pyw extension and move it to the startup folder and **update relative paths**
  
 1. to open startup press windows key + R  , RUN box will pop up
