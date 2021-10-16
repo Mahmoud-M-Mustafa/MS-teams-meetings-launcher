@@ -14,7 +14,7 @@ class course():
 # ToDo:
 # 	  add your courses 
 courses = [['CSE448 (UG2013) - Embedded Operating Systems  (20847)', 17, 30, ['3'], 19,30], # team 1
-           ['RTOS', 14, 50, ['0', '2', '5'], 16] # team 2
+           ['Team 2', 14, 50, ['0', '2', '5'], 16] # team 2
 		   ]
 
 
